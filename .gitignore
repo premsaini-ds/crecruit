@@ -1,0 +1,9 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+
+# PHPStorm
+.idea/
+
+# MacOS
+.DS_Store
