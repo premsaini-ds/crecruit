@@ -1,0 +1,14 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_bosa-plumber">
+            <key name="featured_pages_section_title" />
+            <key name="featured_pages_section_description" />
+            <key name="feature_posts_two_section_title" />
+            <key name="feature_posts_two_section_description" />
+            <key name="catalog_list_title_one" />
+            <key name="catalog_list_title_two" />
+            <key name="renowned_brands_title" />
+            <key name="renowned_brands_sub_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
